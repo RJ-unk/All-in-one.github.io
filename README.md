@@ -8,7 +8,7 @@ Currently, I'm on a journey to deepen my understanding of software development. 
 
 ## Skills & Technologies
 
-html,css,js,react,nodejs,docker,git
+html,css,js,react,nodejs,docker,git,blah blah,blah
 
 ## Top Projects
 
